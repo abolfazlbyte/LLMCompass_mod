@@ -1,4 +1,5 @@
 class ArchitectureTemplate:
-    def __init__(self, 
-                 # ve
-                 ):
+    # def __init__(self, 
+    #              # ve
+    #              ):
+    pass
